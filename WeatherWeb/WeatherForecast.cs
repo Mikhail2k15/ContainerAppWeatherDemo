@@ -14,6 +14,7 @@
         {
             get
             {
+                // nice switch
                 switch (Summary)
                 {
                     case "Freezing":
